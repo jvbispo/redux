@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was a practice to learn about redux follow the instrucstions bellow to use it
 
 ## Available Scripts
 
